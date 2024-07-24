@@ -1,13 +1,13 @@
 # Sentiment Analysis of Amazon Fine Food Reviews using various Machine Learning and Deep Learning Models
 
-## This involves using of various machine learning models like:
+## This involves usage of various machine learning models like:
 
 1) Linear Regression
 
 2) Decision Trees
 
 
-## Also included several Deep Learning models like:
+## And alsi included several Deep Learning models like:
 
 1) BERT
 
